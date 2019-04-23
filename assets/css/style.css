@@ -1,6 +1,14 @@
-/* Color styles */
+/* Navigation */
 
 .navbar {
     background-color: #00583d;
 }
 
+/* Links */
+
+a {
+  color: #ffffff;
+}
+a:hover {
+  color: hotpink;
+}
