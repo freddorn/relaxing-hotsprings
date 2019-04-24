@@ -1,14 +1,22 @@
-/* Navigation */
+/* NAVIGATION */
 
 .navbar {
     background-color: #00583d;
 }
 
-/* Links */
+/* LINKS */
 
 a {
   color: #ffffff;
 }
 a:hover {
   color: hotpink;
+}
+
+/* FOOTER */
+
+P { text-align: center }
+H1 { text-align: center }
+.page-footer{
+    background-color: #6f4e37;
 }
