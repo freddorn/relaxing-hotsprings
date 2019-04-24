@@ -23,3 +23,13 @@ H1 { text-align: center }
 .page-footer{
     background-color: #6f4e37;
 }
+
+/* BORDERS AND MARGINS */
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container-fluid{
+  width: 99%;
+}
