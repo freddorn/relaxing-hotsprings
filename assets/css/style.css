@@ -1,26 +1,53 @@
 /* NAVIGATION */
 
+
 .navbar {
     background-color: #00583d;
 }
-i {
-  color: #ffffff;
-}
 
 /* LINKS */
+
 
 a {
   color: #ffffff;
 }
 a:hover {
-  color: hotpink;
+  color: #ff0fff;
 }
-.fas
-.fab:hover {
-  color: hotpink;
+
+
+
+
+
+/* Social Media Links */
+
+
+.fab{
+    color: #ffffff; 
+    -o-transition: all 0.2s ease-in-out 0.2s; 
+    transition: all 0.2s ease-in-out 0.2s;
+    -moz-transition: all 0.2s ease-in-out 0.2s;
+    -webkit-transition: all 0.2s ease-in-out 0.2s;
+}
+
+
+.fa-facebook:hover{
+  color: blue;
+}
+.fa-tripadvisor:hover{
+  color: green;
+}
+.fa-yelp:hover{
+  color: red;
+}
+.fab:hover{
+    -webkit-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+            transform: scale(1.5);
 }
 
 /* FOOTER */
+
 
 P { text-align: center }
 H1 { text-align: center }
@@ -30,14 +57,13 @@ H1 { text-align: center }
 
 /* BORDERS AND MARGINS */
 
+
 .container
 .container-fluid
 .row{
   margin: 0;
   padding: 0;
 }
-
-
 .container
 .container-fluid{
   width: 99%;
