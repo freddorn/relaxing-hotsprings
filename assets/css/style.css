@@ -14,7 +14,9 @@ a {
 a:hover {
   color: #ff0fff;
 }
-
+icons i,.icons svg {
+   color: #ffffff;
+}
 
 
 
