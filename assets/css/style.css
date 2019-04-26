@@ -56,24 +56,3 @@ H1 { text-align: center }
 .page-footer{
     background-color: #6f4e37;
 }
-
-/* BORDERS AND MARGINS */
-
-
-.container
-.container-fluid
-.row{
-  margin: 0;
-  padding: 0;
-}
-
-/* IMAGES */
-
-
-.img{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-}
