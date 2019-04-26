@@ -57,9 +57,13 @@ H1 { text-align: center }
     background-color: #6f4e37;
 }
 
-/*  OVERFLOW CORRECTION */
+/* BORDERS AND MARGINS */
 
 
+.pagetop-pushdown{
+  height: 60px;
+}
 .row{
-  overflow: hidden;
+  margin-left: 0;
+  margin-right: 0;
 }
