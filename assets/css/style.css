@@ -4,6 +4,14 @@
 .navbar {
     background-color: #00583d;
 }
+/* Carousel styles */
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: auto 5px;
+}
 
 /* LINKS */
 
