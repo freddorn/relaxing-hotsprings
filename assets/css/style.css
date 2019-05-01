@@ -103,6 +103,7 @@ H1 { text-align: center }
   width:99%;
 }
 
+
 /* CENTER CONTENT */
 
 
@@ -118,4 +119,10 @@ div {
 .responsive {
   width: 100%;
   height: auto;
+}
+.facilities {
+  text-align: center;
+}
+.facilities > ul {
+  display: inline-block;
 }
