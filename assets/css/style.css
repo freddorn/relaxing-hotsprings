@@ -1,6 +1,6 @@
 /* FONT STYLES */
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC|Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
 
@@ -116,10 +116,7 @@ div {
   margin-right: auto;
   width: 75%;
 }
-.responsive {
-  width: 100%;
-  height: auto;
-}
+
 .facilities {
   text-align: left;
   width: 40%;
