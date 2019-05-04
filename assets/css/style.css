@@ -136,3 +136,14 @@ div {
 .facilities > ul {
   display: inline-block;
 }
+
+
+/*------------MEDIA QUERIES---------------*/
+
+
+@media only screen and (min-width: 1200px) {
+  .foooter-row {
+    width: 100%;
+    
+  }
+}
