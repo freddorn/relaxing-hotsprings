@@ -15,13 +15,13 @@ p, ol{
 
 
 
-/*-------- NAVIGATION------------ */
+/*------------ NAV BAR------------ */
 
 
 .navbar {
     background-color: #00583d;
 }
-/* Carousel styles */
+/*------- Carousel style---------- */
 
 .carousel-indicators li {
     width: 10px;
@@ -38,16 +38,16 @@ a {
 }
 a:hover {
   color: #ff0fff;
-}
-icons i,.icons svg {
-   color: #ffffff;
-}
-
 
 
 
 /*----------- Social Media Links-------------- */
 
+
+}
+icons i,.icons svg {
+   color: #ffffff;
+}
 
 .fab{
     color: #ffffff; 
@@ -55,6 +55,18 @@ icons i,.icons svg {
     transition: all 0.2s ease-in-out 0.2s;
     -moz-transition: all 0.2s ease-in-out 0.2s;
     -webkit-transition: all 0.2s ease-in-out 0.2s;
+}
+
+.fa-facebook{
+  color: #29b6f6;
+}
+
+.fa-tripadvisor{
+  color: #66ff00;
+}
+
+.fa-yelp{
+  color: #ff7043;
 }
 
 
@@ -70,6 +82,8 @@ icons i,.icons svg {
 .fab:hover{
     -webkit-transform: scale(1.5);
         -ms-transform: scale(1.5);
+        -moz-transform: scale(1.5);
+        -o-transform: scale(1.5);
             transform: scale(1.5);
 }
 
@@ -80,6 +94,7 @@ P { text-align: center }
 H1 { text-align: center }
 .page-footer{
     background-color: #6f4e37;
+    color: #ffffff
 }
 
 /* BORDERS AND MARGINS */
