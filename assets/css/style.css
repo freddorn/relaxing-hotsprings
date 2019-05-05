@@ -45,9 +45,11 @@ a:hover {
 
 
 }
-icons i,.icons svg {
-   color: #ffffff;
+icons i,.icon {
+  display: inline-block;
+   text-align: center;
 }
+
 
 .fab{
     color: #ffffff; 
@@ -138,12 +140,3 @@ div {
 }
 
 
-/*------------MEDIA QUERIES---------------*/
-
-
-@media only screen and (min-width: 1200px) {
-  .footer-row {
-    width: 100%;
-    
-  }
-}
