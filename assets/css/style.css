@@ -18,12 +18,15 @@ p, ol{
 /*------------ NAV BAR------------ */
 
 
-
-
-
 .navbar {
-    background-color: #00583d;
+  background-color: #00583d;
+  
 }
+
+
+
+
+
 /*------- Carousel style---------- */
 
 .carousel-indicators li {
