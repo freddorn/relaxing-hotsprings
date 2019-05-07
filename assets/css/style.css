@@ -176,7 +176,7 @@ div {
 
 /*------------ MEDIA QUERIES ------------*/
 
-          /*phones*/
+/*phones and tablets don't show image carousel*/
 
 @media screen and (max-width: 767px){ 
     .hero{
