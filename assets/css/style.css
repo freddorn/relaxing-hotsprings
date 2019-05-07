@@ -173,3 +173,14 @@ div {
   width: 100vw;
   height: 70vh;
 }
+
+/*------------ MEDIA QUERIES ------------*/
+
+          /*phones*/
+
+@media screen and (max-width: 767px){ 
+    .hero{
+      display: none;
+        
+    }
+}
