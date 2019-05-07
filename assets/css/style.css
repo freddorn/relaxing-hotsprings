@@ -90,8 +90,6 @@ icons i,.icon {
 .fab:hover{
     -webkit-transform: scale(1.5);
         -ms-transform: scale(1.5);
-        -moz-transform: scale(1.5);
-        -o-transform: scale(1.5);
             transform: scale(1.5);
 }
 
@@ -127,7 +125,9 @@ H1 { text-align: center }
 
 
 div {
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 .center {
   display: block;
@@ -146,5 +146,4 @@ div {
 .facilities > ul {
   display: inline-block;
 }
-
 
