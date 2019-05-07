@@ -165,3 +165,11 @@ div {
   margin-right: auto;
   width: 50%;
 }
+
+.hero{
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100vw;
+  height: 70vh;
+}
