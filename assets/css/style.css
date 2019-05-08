@@ -4,23 +4,30 @@
 
 
 
-h1, h2, h3, h4, h5, h6, h7, h8{
-    font-family: 'Roboto', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+h8 {
+  font-family: 'Roboto', sans-serif;
 }
 
-p, ol{
-    font-family: 'Roboto', sans-serif;
-    font-size: 17px;
+p,
+ol {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
 }
 
 
 
 /*------------ NAV BAR------------ */
 
-
 .navbar {
   background-color: #00583d;
-  
+
 }
 
 
@@ -30,92 +37,100 @@ p, ol{
 /*------- Carousel style---------- */
 
 .carousel-indicators li {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    margin: auto 5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: auto 5px;
 }
 
 /* -----------LINKS------------- */
 
-
 a {
   color: #ffffff;
 }
+
 a:hover {
   color: #ff0fff;
 
 
 
-/*----------- Social Media Links-------------- */
-
-
+  /*----------- Social Media Links-------------- */
 }
-icons i,.icon {
+
+icons i,
+.icon {
   display: inline-block;
-   text-align: center;
+  text-align: center;
 }
 
 
-.fab{
-    color: #ffffff; 
-    -o-transition: all 0.2s ease-in-out 0.2s; 
-    transition: all 0.2s ease-in-out 0.2s;
-    -moz-transition: all 0.2s ease-in-out 0.2s;
-    -webkit-transition: all 0.2s ease-in-out 0.2s;
+.fab {
+  color: #ffffff;
+  -o-transition: all 0.2s ease-in-out 0.2s;
+  transition: all 0.2s ease-in-out 0.2s;
+  -moz-transition: all 0.2s ease-in-out 0.2s;
+  -webkit-transition: all 0.2s ease-in-out 0.2s;
 }
 
-.fa-facebook{
+.fa-facebook {
   color: #29b6f6;
 }
 
-.fa-tripadvisor{
+.fa-tripadvisor {
   color: #66ff00;
 }
 
-.fa-yelp{
+.fa-yelp {
   color: #ff7043;
 }
 
 
-.fa-facebook:hover{
+.fa-facebook:hover {
   color: blue;
 }
-.fa-tripadvisor:hover{
+
+.fa-tripadvisor:hover {
   color: green;
 }
-.fa-yelp:hover{
+
+.fa-yelp:hover {
   color: red;
 }
-.fab:hover{
-    -webkit-transform: scale(1.5);
-        -ms-transform: scale(1.5);
-            transform: scale(1.5);
+
+.fab:hover {
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
 }
 
 /*------------- FOOTER-------------------------- */
 
+P {
+  text-align: center
+}
 
-P { text-align: center }
-H1 { text-align: center }
-.page-footer{
-    background-color: #6f4e37;
-    color: #ffffff
+H1 {
+  text-align: center
+}
+
+.page-footer {
+  background-color: #6f4e37;
+  color: #ffffff
 }
 
 /*----------- BORDERS AND MARGINS----------------*/
 
-
-.pagetop-pushdown{
+.pagetop-pushdown {
   height: 60px;
 }
-.row{
+
+.row {
   margin-left: 0;
   margin-right: 0;
 }
-.container
-.container-fluid{
-  width:99%;
+
+.container .container-fluid {
+  width: 99%;
 }
 
 
@@ -123,11 +138,10 @@ H1 { text-align: center }
 
 /*---------- CENTER CONTENT---------------*/
 
-
 div {
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 
 .facilities {
@@ -135,52 +149,43 @@ div {
   width: 40%;
   position: relative;
   left: 30%;
-  
+
 }
-.facilities > ul {
+
+.facilities>ul {
   display: inline-block;
 }
 
 /*-------------IMAGES--------------------*/
 
-
-
-.primary{
+.primary {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 
-.secondary{
+.secondary {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 65%;
+  width: 75%;
 }
 
-.falls{
+.falls {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 
-.hero{
+.hero {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  width: 100vw;
-  height: 70vh;
+  width: 100%;
+
 }
 
 /*------------ MEDIA QUERIES ------------*/
 
-/*phones and tablets don't show image carousel*/
-
-@media screen and (max-width: 767px){ 
-    .hero{
-      display: none;
-        
-    }
-}
