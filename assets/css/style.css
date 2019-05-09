@@ -176,7 +176,15 @@ div {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
+}
+
+
+.lower {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
 }
 
 /*----------MEDIA QUERIES----------------*/
