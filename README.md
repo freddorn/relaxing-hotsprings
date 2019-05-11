@@ -1,17 +1,26 @@
-# Your Project's Name
+# Relaxing Hot Springs
 
-One or two paragraphs providing an overview of your project.
+View website on [Github Pages](https://freddorn.github.io/relaxing-hotsprings/)
 
-Essentially, this part is your sales pitch.
+A hot spring resort located on the Olympic Peninsula of Washington state, in the United States. It is inside Olympic National Park,
+one of the national parks in the US National Park Service. The resort receives many visitors from across the world, who come to enjoy
+the soothing mineral waters that the resort offers. Guests can come visit for the day, or stay overnight in ine of the cabins.
+There are hiking trails in the surrounding area, for those who wish to explore the valley.
+
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Guests from across the country and world visit the resort and national park. In designing this website, I wanted to provide an easy
+to use site with all the important information of the resort and surrounding valley.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+* Useful content of what the resort offers, enabling guests to make cabin reservations easily.
+* Informing day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
+* Easy to use site, that is simple in design, with information organized in easy to find sections.
+* Enticing images of the area and its beauty that would make people want to come visit the area.
+* A color scheme that uses forest colors and is easy on the eyes.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+Wireframes can be viewed [here](https://freddorn.github.io/relaxing-hotsprings/assets/mockups/)
+
 
 ## Features
 
