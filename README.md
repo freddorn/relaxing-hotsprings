@@ -11,31 +11,42 @@ There are hiking trails in the surrounding area, for those who wish to explore t
 ## UX
  
 Guests from across the country and world visit the resort and national park. In designing this website, I wanted to provide an easy
-to use site with all the important information of the resort and surrounding valley.
+to use site with all the important information of the resort and surrounding valley. Used a color scheme on the header and footer
+that uses the colors of the forest.
 
-* Useful content of what the resort offers, enabling guests to make cabin reservations easily.
+### As a visitor to the National Park I appreciate:
+
+* Information of what the resort offers, being able to make cabin reservations easily and the dining options available.
 * Informing day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
 * Easy to use site, that is simple in design, with information organized in easy to find sections.
-* Enticing images of the area and its beauty that would make people want to come visit the area.
-* A color scheme that uses forest colors and is easy on the eyes.
+* Enticing images of the resort and surrounding area, highlighting its beauty, that would make people want to come visit the area.
+
+
 
 Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
 
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
+
+* The header is the same on all 5 pages and is  emerald green. It includes the Relaxing Hot Springs logo, a navbar for all the pages and a Book Now link to Booking.com. The navbar will collapse to a hamburger type menu on screen sizes smaller than medium.
+* The footer is the same on all 5 pages and is brown, which compliments the green of the header, creating a forest colors combination. The footer includes the address and directions to the resort as well as Social Media links.
+* The Main page features an image carousel of 4 images of the resort, information about the resort and surrounding area and images of the surrounding area.
+* The Lodging page features an exterior view of a cabin, an interior view of each room type, as well as information about each room type.
+* The Dining page features a view of inside the dining room, an image of the outside patio dining area, a decription of the food served and the hours of operation.
+* The Hot Springs and Pool page has images of the pool area, price and hours information, temperature and depth information of each pool.
+* The Contact page has an image of the front of the lodge and a contact form.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- The Navbar includes a Book Now link to Booking.com.
+- Image Carousel
+- Contact Form
+- Social Media Links
+- Page specific images and information.
 
 ### Features Left to Implement
-- Another feature idea
+- A booking engine for the resort, rather than just a link to Booking.com.
 
 ## Technologies Used
 
