@@ -4,7 +4,7 @@ View website on [Github Pages](https://freddorn.github.io/relaxing-hotsprings/)
 
 A hot spring resort located on the Olympic Peninsula of Washington state, in the United States. It is inside Olympic National Park,
 one of the national parks in the US National Park Service. The resort receives many visitors from across the world, who come to enjoy
-the soothing mineral waters that the resort offers. Guests can come visit for the day, or stay overnight in ine of the cabins.
+the soothing mineral waters that the resort offers. Guests can come visit for the day, or stay overnight in one of the cabins.
 There are hiking trails in the surrounding area, for those who wish to explore the valley.
 
  
@@ -19,7 +19,7 @@ to use site with all the important information of the resort and surrounding val
 * Enticing images of the area and its beauty that would make people want to come visit the area.
 * A color scheme that uses forest colors and is easy on the eyes.
 
-Wireframes can be viewed [here](https://freddorn.github.io/relaxing-hotsprings/assets/mockups/)
+Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
 
 
 ## Features
