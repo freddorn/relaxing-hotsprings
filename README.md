@@ -39,31 +39,31 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 * The Contact page has an image of the front of the lodge and a contact form.
  
 ### Existing Features
-- The Navbar includes a Book Now link to Booking.com.
-- Image Carousel
-- Contact Form
-- Social Media Links
-- Page specific images and information.
+* The Navbar includes a Book Now link to Booking.com.
+* Image Carousel
+* Contact Form
+* Social Media Links
+* Page specific images and information.
 
 ### Features Left to Implement
-- A booking engine for the resort, rather than just a link to Booking.com.
+* A booking engine for the resort, rather than just a link to Booking.com.
 
 ## Technologies Used
 
-- HTML Language
-- CSS Language
-- [Cloud9](https://c9.io) 
+* HTML Language
+* CSS Language
+* [Cloud9](https://c9.io) 
     - IDE used for developing website.
-- [BootstrapCDN](https://www.bootstrapcdn.com/)
+* [BootstrapCDN](https://www.bootstrapcdn.com/)
     - Used to simplify the building of a responsive website.
     
--[FontAwesome](https://fontawesome.com/)
+* [FontAwesome](https://fontawesome.com/)
     -Library of useful icons. Used for navbar menu and social media icons.
 
-- [Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/)
     -To style the website fonts.
 
-- [AutoPrefixer](https://autoprefixer.github.io/)
+* [AutoPrefixer](https://autoprefixer.github.io/)
     -To make sure the css code is valid for all browsers.
 
 
