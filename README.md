@@ -14,13 +14,13 @@ Guests from across the country and world visit the resort and national park. In 
 to use site with all the important information of the resort and surrounding valley. Used a color scheme on the header and footer
 that uses the colors of the forest.
 
-### As a visitor to the National Park I appreciate:
+### User Stories
 
-* Information of what the resort offers, being able to make cabin reservations easily and the dining options available.
-* Informing day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
-* Easy to use site, that is simple in design, with information organized in easy to find sections.
-* Enticing images of the resort and surrounding area, highlighting its beauty, that would make people want to come visit the area.
-
+*As a returning visitor to the resort, I would like to check on lodging availability, make a reservation easily and see what has changed, since my last visit.
+*As a potential visitor to the National Park, I appreciate that the website informs day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
+*As a new visitor to the website, I would like an easy to use site, that is simple in design, with information organized in easy to find sections.
+*As a potential visitor to the National Park, I enjoy seeing enticing images of the resort and surrounding area, highlighting its beauty, that would make me want to come visit the area.
+*As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options avilable.
 
 
 Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
@@ -50,10 +50,20 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- HTML Language
+- CSS Language
+- [Cloud9](https://c9.io) 
+    - IDE used for developing website.
+- [BootstrapCDN](https://www.bootstrapcdn.com/)
+    - Used to simplify the building of a responsive website.
+-[FontAwesome](https://fontawesome.com/)
+    -Library of useful icons. Used for navbar menu and social media icons.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Google Fonts](https://fonts.google.com/)
+    -To style the website fonts.
+
+- [AutoPrefixer](https://autoprefixer.github.io/)
+    -To make sure the css code is valid for all browsers.
 
 
 ## Testing
