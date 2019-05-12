@@ -16,7 +16,7 @@ that uses the colors of the forest.
 
 ### User Stories
 
-* gitAs a returning visitor to the resort, I would like to check on lodging availability, make a reservation easily and see what has changed, since my last visit.
+* As a returning visitor to the resort, I would like to check on lodging availability, make a reservation easily and see what has changed, since my last visit.
 * As a potential visitor to the National Park, I appreciate that the website informs day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
 * As a new visitor to the website, I would like an easy to use site, that is simple in design, with information organized in easy to find sections.
 * As a potential visitor to the National Park, I enjoy seeing enticing images of the resort and surrounding area, highlighting its beauty, that would make me want to come visit the area.
@@ -30,7 +30,7 @@ Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/
 
 The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 
-* The header is the same on all 5 pages and is  emerald green. It includes the Relaxing Hot Springs logo, a navbar for all the pages and a Book Now link to Booking.com. The navbar will collapse to a hamburger type menu on screen sizes smaller than medium.
+* The header is the same on all 5 pages and is  emerald green. It includes the Relaxing Hot Springs logo, a navbar for all the pages and a Book Now link to Booking.com. The navbar will collapse to a hamburger type menu on screen sizes smaller than large.
 * The footer is the same on all 5 pages and is brown, which compliments the green of the header, creating a forest colors combination. The footer includes the address and directions to the resort as well as Social Media links.
 * The Main page features an image carousel of 4 images of the resort, information about the resort and surrounding area and images of the surrounding area.
 * The Lodging page features an exterior view of a cabin, an interior view of each room type, as well as information about each room type.
@@ -56,6 +56,7 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
     - IDE used for developing website.
 - [BootstrapCDN](https://www.bootstrapcdn.com/)
     - Used to simplify the building of a responsive website.
+    
 -[FontAwesome](https://fontawesome.com/)
     -Library of useful icons. Used for navbar menu and social media icons.
 
