@@ -16,11 +16,11 @@ that uses the colors of the forest.
 
 ### User Stories
 
-*As a returning visitor to the resort, I would like to check on lodging availability, make a reservation easily and see what has changed, since my last visit.
-*As a potential visitor to the National Park, I appreciate that the website informs day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
-*As a new visitor to the website, I would like an easy to use site, that is simple in design, with information organized in easy to find sections.
-*As a potential visitor to the National Park, I enjoy seeing enticing images of the resort and surrounding area, highlighting its beauty, that would make me want to come visit the area.
-*As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options avilable.
+* gitAs a returning visitor to the resort, I would like to check on lodging availability, make a reservation easily and see what has changed, since my last visit.
+* As a potential visitor to the National Park, I appreciate that the website informs day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
+* As a new visitor to the website, I would like an easy to use site, that is simple in design, with information organized in easy to find sections.
+* As a potential visitor to the National Park, I enjoy seeing enticing images of the resort and surrounding area, highlighting its beauty, that would make me want to come visit the area.
+* As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options avilable.
 
 
 Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
