@@ -58,13 +58,13 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
     - Used to simplify the building of a responsive website.
     
 * [FontAwesome](https://fontawesome.com/)
-    -Library of useful icons. Used for navbar menu and social media icons.
+    - Library of useful icons. Used for navbar menu and social media icons.
 
 * [Google Fonts](https://fonts.google.com/)
-    -To style the website fonts.
+    - To style the website fonts.
 
 * [AutoPrefixer](https://autoprefixer.github.io/)
-    -To make sure the css code is valid for all browsers.
+    - To make sure the css code is valid for all browsers.
 
 
 ## Testing
