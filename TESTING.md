@@ -1,6 +1,6 @@
 # Testing Details
 
-[Main README.md file](https://github.com/freddorn/relaxing-hotsprings/tree/master/TESTING/)
+[Main README.md file](https://github.com/freddorn/relaxing-hotsprings/tree/master/TESTING.md/)
 
 View website on [Github Pages](https://freddorn.github.io/relaxing-hotsprings/)
 
