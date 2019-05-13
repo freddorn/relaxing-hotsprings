@@ -23,7 +23,7 @@ that uses the colors of the forest.
 * As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options available.
 
 
-Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
+**Wireframes** can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
 
 
 ## Features
@@ -86,11 +86,11 @@ To deploy to Github pages from its Github repository, the following steps need t
 1. Log into Github.
 2. Select the repository **freddorn/relaxing-hotsprings**
 3. Select *Settings* from the menu, near the top of the page.
-4. Scroll down to the *Github pages* section.
-5. Under *Source*, change the drop-down menu **None** to **Master Branch**
+4. Scroll down to the **Github pages** section.
+5. Under **Source**, change the drop-down menu **None** to **Master Branch**
 6. Scroll down to the **Github pages** section for the link to the deployed website.
 
-In development of this website, only the master branch was used. There is no difference between the deployed and development versions.git
+In development of this website, only the master branch was used. There is no difference between the deployed and development versions.
 
 
 
@@ -112,7 +112,11 @@ To clone this project from GitHub:
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+The resort featured on my website is based on Sol Duc Hot Springs Resort in the Olympic National Park (United States) managed by Aramark Services.
+
+ - The text used on the Main page was paraphrased by myself, obtained from the websites [Aramark Services](https://www.olympicnationalparks.com) and [Olympic National Park](https://www.nps.gov/olym/index.htm)
+ - The information on the other pages was obtained from [Aramark Services](https://www.olympicnationalparks.com)
 
 ### Media
 - The photos used in this site were obtained from ...
