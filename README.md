@@ -75,6 +75,7 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 
 ## Testing
 
+Testing information can be found [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/TESTING/)
 
 
 ## Deployment
