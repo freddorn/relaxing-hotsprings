@@ -119,8 +119,17 @@ The resort featured on my website is based on Sol Duc Hot Springs Resort in the 
  - The information on the other pages was obtained from [Aramark Services](https://www.olympicnationalparks.com)
 
 ### Media
-- The photos used in this site were obtained from ...
+
+The photos used for this site were obtained by:
+
+- Falls, Lodge2 and Pool3 were taken by mmyself.
+- Boardwalk and Mink Lake are from [Protrails](www.protrails.com)
+- Pool4 is from [My Olympic Park](www.myolympicpark.com)
+- Pool5 is from [Family Vacation Critic](www.familyvacationcritic.com)
+- All others are from [Aramark Services](https://www.olympicnationalparks.com)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the visits I have made to Sol Duc Hot Springs Resort over the years.
+- The Slack community, where I have learned a great deal, reading through many posts.
+- My mentor Sebastian Immel for his input.
