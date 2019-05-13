@@ -66,6 +66,12 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 * [AutoPrefixer](https://autoprefixer.github.io/)
     - To make sure the css code is valid for all browsers.
 
+* [jQuery](https://jquery.com/)
+    - To reference Javascript needed for the responsive navbar.
+    
+* [Popper.js](https://popper.js.org/)
+    - To reference Javascript needed for the responsive navbar.
+
 
 ## Testing
 
@@ -89,14 +95,23 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### Deployment onto GitHub
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+
+### How to run this project locally
+
+To clone this project from GitHub:
+
+1. Follow this link to the GitHub repository
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository. 
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type ```git clone```, and then paste the URL you copied in Step 3.
+7. Press Enter. Your local clone will be created.
+
+
 
 
 ## Credits
