@@ -20,7 +20,7 @@ that uses the colors of the forest.
 * As a potential visitor to the National Park, I appreciate that the website informs day users, that they can come here just for the day, to soak in the pools, or take part in any activity that the resort or surrounding valley offers.
 * As a new visitor to the website, I would like an easy to use site, that is simple in design, with information organized in easy to find sections.
 * As a potential visitor to the National Park, I enjoy seeing enticing images of the resort and surrounding area, highlighting its beauty, that would make me want to come visit the area.
-* As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options avilable.
+* As a potential visitor to the resort, I appreciate information of what the resort offers and the dining options available.
 
 
 Wireframes can be viewed [here](https://github.com/freddorn/relaxing-hotsprings/tree/master/assets/mockups)
@@ -75,27 +75,22 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
 ### Deployment onto GitHub
+
+To deploy to Github pages from its Github repository, the following steps need to be completed:
+
+1. Log into Github.
+2. Select the repository **freddorn/relaxing-hotsprings**
+3. Select *Settings* from the menu, near the top of the page.
+4. Scroll down to the *Github pages* section.
+5. Under *Source*, change the drop-down menu **None** to **Master Branch**
+6. Scroll down to the **Github pages** section for the link to the deployed website.
+
+In development of this website, only the master branch was used. There is no difference between the deployed and development versions.git
 
 
 
