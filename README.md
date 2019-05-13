@@ -122,14 +122,20 @@ The resort featured on my website is based on Sol Duc Hot Springs Resort in the 
 
 The photos used for this site were obtained by:
 
-- Falls, Lodge2 and Pool3 were taken by mmyself.
-- Boardwalk and Mink Lake are from [Protrails](www.protrails.com)
-- Pool4 is from [My Olympic Park](www.myolympicpark.com)
-- Pool5 is from [Family Vacation Critic](www.familyvacationcritic.com)
+- Falls, Lodge2 and Pool3 were taken by myself.
+- Boardwalk and Mink Lake are from [Protrails](https://www.protrails.com)
+- Pool4 is from [My Olympic Park](https://www.myolympicpark.com)
+- Pool5 is from [Family Vacation Critic](https://www.familyvacationcritic.com)
 - All others are from [Aramark Services](https://www.olympicnationalparks.com)
+
 
 ### Acknowledgements
 
 - I received inspiration for this project from the visits I have made to Sol Duc Hot Springs Resort over the years.
 - The Slack community, where I have learned a great deal, reading through many posts.
 - My mentor Sebastian Immel for his input.
+- W3SCHOOLS website for easy explanation of the code.
+
+### Disclaimer
+
+- This content of this website is for instructional purposes only.
