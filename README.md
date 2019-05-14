@@ -33,10 +33,10 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
 * The header is the same on all 5 pages and is  emerald green. It includes the Relaxing Hot Springs logo, a navbar for all the pages and a Book Now link to Booking.com. The navbar will collapse to a hamburger type menu on screen sizes smaller than large.
 * The footer is the same on all 5 pages and is brown, which compliments the green of the header, creating a forest colors combination. The footer includes the address and directions to the resort as well as Social Media links.
 * The Main page features an image carousel of 4 images of the resort, information about the resort and surrounding area and images of the surrounding area.
-* The Lodging page features an exterior view of a cabin, an interior view of each room type, as well as information about each room type.
+* The Lodging page features an exterior view of cabins, an interior view of each room type, as well as information about each room type.
 * The Dining page features a view of inside the dining room, an image of the outside patio dining area, a decription of the food served and the hours of operation.
 * The Hot Springs and Pool page has images of the pool area, price and hours information, temperature and depth information of each pool.
-* The Contact page has an image of the front of the lodge and a contact form.
+* The Contact page has an image of a bridge over the falls and a contact form.
  
 ### Existing Features
 * The Navbar includes a Book Now link to Booking.com.
@@ -123,10 +123,9 @@ The resort featured on my website is based on Sol Duc Hot Springs Resort in the 
 
 The photos used for this site were obtained by:
 
-- Falls, Lodge2 and Pool3 were taken by myself.
+- Falls and Pool3 were taken by myself.
 - Boardwalk and Mink Lake are from [Protrails](https://www.protrails.com)
 - Pool4 is from [My Olympic Park](https://www.myolympicpark.com)
-- Pool5 is from [Family Vacation Critic](https://www.familyvacationcritic.com)
 - All others are from [Aramark Services](https://www.olympicnationalparks.com)
 
 

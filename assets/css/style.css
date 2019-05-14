@@ -161,12 +161,15 @@ div {
 
 /*-------------IMAGES--------------------*/
 
+
 .primary {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 100%;
 }
+
+
 
 .secondary {
   display: block;
@@ -190,11 +193,4 @@ div {
   width: 85%;
 }
 
-/*----------MEDIA QUERIES----------------*/
 
-
-@media only screen and (max-width: 767px) {
-.primary {
-    width: 100%;
-  }
-}
