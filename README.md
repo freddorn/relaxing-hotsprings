@@ -40,6 +40,7 @@ The website has 5 pages- Home, Lodging, Dining, Hot Springs and Pool, Contact.
  
 ### Existing Features
 * The Navbar includes a Book Now link to Booking.com.
+* A Book Now button that links to Booking.com is on all the pages, except the Contact page.
 * Image Carousel
 * Contact Form
 * Social Media Links
