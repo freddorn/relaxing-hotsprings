@@ -66,6 +66,38 @@ View website on [Github Pages](https://freddorn.github.io/relaxing-hotsprings/)
 4. Footer
     1. It is the same on all pages, verified code was identical.
  
-#### Lodging Page
-#### Dining Page
-#### Hot Springs and Pool Page
+#### Lodging, Dining, Hot Springs and Pool pages
+These pages are all structured the same.
+
+1. Navigation bar:
+    1. It is the same on all pages, verified code was identical.
+
+2. Hero image:
+    1. Verified that it is the correct size.
+    2. Checked that it is responsive.
+
+3. Main section
+    1. Confirmed that all headlines and text are centered in their appropriate sections.
+    2. Checked that images were the correct size and centered.
+    3. Verified that it is responsive at different screen sizes.
+
+4. Book Now button
+    1. Verified that button was placed correctly and link is working, while opening a separate tab.
+
+5. Footer
+    1. It is the same on all pages, verified code was identical.
+
+## More Testing:
+
+    1. Used the Chrome Dev tools for most of the responsive testing.
+    2. Tested with a device of each of the 5 Bootstrap screen sizes. (Extra small to Extra Large)
+    3. Tested with the Chrome, Firefox and Safari browsers.
+ 
+
+
+
+
+
+
+
+
