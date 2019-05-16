@@ -55,6 +55,8 @@ View website on [Github Pages](https://freddorn.github.io/relaxing-hotsprings/)
 2. Hero image:
     1. Verified that it is the correct size.
     2. Checked that it is responsive.
+    3. Originally it was going to go from edge to edge, but on smaller screens, the image would crop in a way that was unsuitable for the chosen images.
+    4. Added a media query to increase the height on smaller sizes below medium.
 
 3. Contact form: 
     1. Try to submit the empty form and verify that an error message about the required fields appears.
@@ -74,7 +76,11 @@ These pages are all structured the same.
 
 2. Hero image:
     1. Verified that it is the correct size.
-    2. Checked that it is responsive.
+    2. Checked that it is responsive. 
+    3. Originally it was going to go from edge to edge, but on smaller screens, the image would crop in a way that was unsuitable for the chosen images.
+    4. Added a media query to increase the height on smaller sizes below medium.
+
+    
 
 3. Main section
     1. Confirmed that all headlines and text are centered in their appropriate sections.
